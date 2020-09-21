@@ -27,7 +27,7 @@ export default class Customers extends Component {
             <div className="col-md-3">
                 {
                     this.state.customerlist.data.map(customer =>
-                        <BS.Card key ={customer.name}>
+                        <BS.Card key={customer.name}>
                             <BS.Card.Header>
                                 <BS.Card.Title>{customer.name}</BS.Card.Title>
                             </BS.Card.Header>
