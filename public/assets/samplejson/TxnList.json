@@ -1,0 +1,110 @@
+[
+        {
+            "TxnServerTime": "2020-09-26 16:00:35.327",
+            "TerminalNo": "99999963",
+            "Response": "0 - تراکنش با موفقيت پذيرفته شده است",
+            "Reason": "",
+            "PProcess": "0 - خرید",
+            "PAN": "9999999991",
+            "ReverseCode": "0",
+            "BusinessDate": "2020-09-26 00:00:00.000",
+            "ResponseCode": "0",
+            "ResponseTime": "25"
+        },
+        {
+            "TxnServerTime": "2020-09-26 16:00:35.243",
+            "TerminalNo": "98430999",
+            "Response": "0 - تراکنش با موفقيت پذيرفته شده است",
+            "Reason": "",
+            "PProcess": "0 - خرید",
+            "PAN": "9999999992",
+            "ReverseCode": "0",
+            "BusinessDate": "2020-09-26 00:00:00.000",
+            "ResponseCode": "0",
+            "ResponseTime": "23"
+        },
+        {
+            "TxnServerTime": "2020-09-26 16:00:35.190",
+            "TerminalNo": "98438999",
+            "Response": "0 - تراکنش با موفقيت پذيرفته شده است",
+            "Reason": "",
+            "PProcess": "0 - خرید",
+            "PAN": "9999999993",
+            "ReverseCode": "0",
+            "BusinessDate": "2020-09-26 00:00:00.000",
+            "ResponseCode": "0",
+            "ResponseTime": "55"
+        },
+        {
+            "TxnServerTime": "2020-09-26 16:00:35.080",
+            "TerminalNo": "44332999",
+            "Response": "0 - تراکنش با موفقيت پذيرفته شده است",
+            "Reason": "",
+            "PProcess": "0 - خرید",
+            "PAN": "9999999993",
+            "ReverseCode": "0",
+            "BusinessDate": "2020-09-26 00:00:00.000",
+            "ResponseCode": "0",
+            "ResponseTime": "77"
+        },
+        {
+            "TxnServerTime": "2020-09-26 16:00:34.987",
+            "TerminalNo": "44825999",
+            "Response": "0 - تراکنش با موفقيت پذيرفته شده است",
+            "Reason": "",
+            "PProcess": "0 - خرید",
+            "PAN": "9999999994",
+            "ReverseCode": "0",
+            "BusinessDate": "2020-09-26 00:00:00.000",
+            "ResponseCode": "0",
+            "ResponseTime": "96"
+        },
+        {
+            "TxnServerTime": "2020-09-26 16:00:34.970",
+            "TerminalNo": "98432999",
+            "Response": "0 - تراکنش با موفقيت پذيرفته شده است",
+            "Reason": "",
+            "PProcess": "0 - خرید",
+            "PAN": "9999999995",
+            "ReverseCode": "0",
+            "BusinessDate": "2020-09-26 00:00:00.000",
+            "ResponseCode": "0",
+            "ResponseTime": "59"
+        },
+        {
+            "TxnServerTime": "2020-09-26 16:00:34.967",
+            "TerminalNo": "98432999",
+            "Response": "0 - تراکنش با موفقيت پذيرفته شده است",
+            "Reason": "",
+            "PProcess": "0 - خرید",
+            "PAN": "9999999996",
+            "ReverseCode": "0",
+            "BusinessDate": "2020-09-26 00:00:00.000",
+            "ResponseCode": "0",
+            "ResponseTime": "67"
+        },
+        {
+            "TxnServerTime": "2020-09-26 16:00:34.907",
+            "TerminalNo": "98432999",
+            "Response": "0 - تراکنش با موفقيت پذيرفته شده است",
+            "Reason": "",
+            "PProcess": "0 - خرید",
+            "PAN": "9999999997",
+            "ReverseCode": "0",
+            "BusinessDate": "2020-09-26 00:00:00.000",
+            "ResponseCode": "0",
+            "ResponseTime": "25"
+        },
+        {
+            "TxnServerTime": "2020-09-26 16:00:34.900",
+            "TerminalNo": "98432999",
+            "Response": "0 - تراکنش با موفقيت پذيرفته شده است",
+            "Reason": "",
+            "PProcess": "0 - خرید",
+            "PAN": "9999999998",
+            "ReverseCode": "0",
+            "BusinessDate": "2020-09-26 00:00:00.000",
+            "ResponseCode": "0",
+            "ResponseTime": "31"
+        }
+    ]

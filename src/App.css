@@ -1,3 +1,104 @@
+
+@font-face {
+  font-family: 'BNazanin';
+  src: url('Fonts/BNazanin.eot');
+  src: local('BNazanin'), url('Fonts/BNazanin.woff') format('woff'), url('Fonts/BNazanin.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'titr';
+  src: url('Fonts/titr.eot');
+  src: local('titr'), url('Fonts/titr.woff') format('woff'), url('Fonts/titr.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BRoya';
+  src: url('Fonts/BRoya.eot');
+  src: local('BRoya'), url('Fonts/BRoya.woff') format('woff'), url('Fonts/BRoya.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IRANSansWeb';
+  src: url('Fonts/IRANSansWeb.eot');
+  src: local('IRANSansWeb'), url('Fonts/IRANSansWeb.woff') format('woff'), url('Fonts/IRANSansWeb.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IRANSansWeb_Bold';
+  src: url('Fonts/IRANSansWeb_Bold.eot');
+  src: local('IRANSansWeb_Bold'), url('Fonts/IRANSansWeb_Bold.woff') format('woff'), url('Fonts/titr.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IRANSansWeb_Light';
+  src: url('Fonts/IRANSansWeb_Light.eot');
+  src: local('IRANSansWeb_Light'), url('Fonts/IRANSansWeb_Light.woff') format('woff'), url('Fonts/IRANSansWeb_Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IRANSansWeb_Medium';
+  src: url('Fonts/IRANSansWeb_Medium.eot');
+  src: local('IRANSansWeb_Medium'), url('Fonts/IRANSansWeb_Medium.woff') format('woff'), url('Fonts/IRANSansWeb_Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IRANSansWeb_UltraLight';
+  src: url('Fonts/IRANSansWeb_UltraLight.eot');
+  src: local('IRANSansWeb_UltraLight'), url('Fonts/IRANSansWeb_UltraLight.woff') format('woff'), url('Fonts/IRANSansWeb_UltraLight.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'flat';
+  src: url('Fonts/flat.eot');
+  src: local('flat'), url('Fonts/flat.woff') format('woff'), url('Fonts/flat.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Vazir';
+  src: local('Vazir'), url('Fonts/Vazir.woff') format('woff'), url('Fonts/Vazir.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rezvan';
+  src: local('Rezvan'), url('Fonts/Rezvan.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Melat';
+  src: local('Melat'), url('Fonts/Melat.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Melatlight';
+  src: local('Melatlight'), url('Fonts/Melatlight.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +136,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.CardDetai{
+  font-family:IRANSansWeb ;
+}
+.successrow{
+  background-color: lightgreen;
+  color: green;
+}
+.failrow{
+  background-color: lightcoral;
+  color: red;
 }

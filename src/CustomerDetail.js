@@ -23,7 +23,7 @@ export default class CustomerDetail extends Component {
     render() {
         if (!this.state.customerDetails)
             return (<p>Loading Data</p>)
-        console.log(this.state.customerDetails.data.name);
+        // console.log(this.state.customerDetails.data);
         return (
             <div>
                 <BS.Card>
